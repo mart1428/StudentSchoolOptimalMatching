@@ -1,0 +1,17 @@
+l
+schools5.txt
+students5.txt
+p
+m
+d
+p
+r
+l
+schools10.txt
+students10.txt
+p
+m
+d
+p
+r
+q
